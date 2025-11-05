@@ -33,5 +33,35 @@ Naming Standard
   - Source Dataset - ds_population_raw_gz
   - Link Services - ls_adls_covidreportingdkrdl
   - Sink Dataset - ds_population_raw_tsv
-  - Pipoeline - pl_injest_population_data
+  - Pipeline - pl_injest_population_data
   - Copy Activity - Copy Population Data
+
+Creating Link Services
+
+Creating Datasets
+<img width="1365" height="595" alt="image" src="https://github.com/user-attachments/assets/34340b61-116c-4e2e-b9f4-d2231b3eba06" />
+Creating Pipeline
+<img width="1167" height="707" alt="image" src="https://github.com/user-attachments/assets/d2abb8a9-4402-4a25-8659-056b5fa43d1e" />
+Output Generated (Viewed throuh Storage Explorer)
+<img width="1450" height="621" alt="image" src="https://github.com/user-attachments/assets/b259518e-5e20-4c31-a5b8-fda3c868340e" />
+Adding a control flow to copy data as soon as file is available
+<img width="1914" height="903" alt="image" src="https://github.com/user-attachments/assets/8de96eca-ed39-46c3-b932-bee259e38e0e" />
+File validation using a control flow - If receiving file is available as expected
+<img width="1916" height="879" alt="image" src="https://github.com/user-attachments/assets/a772c939-4ad1-4cc2-a566-76b55df8c175" />
+<img width="1918" height="899" alt="image" src="https://github.com/user-attachments/assets/ab265f93-2adc-41eb-8aab-91dec8b10f86" />
+File deleted as soon as file copy is complete
+<img width="1916" height="901" alt="image" src="https://github.com/user-attachments/assets/041224be-9d80-4276-ac70-82dbe98e43e1" />
+<img width="1916" height="647" alt="image" src="https://github.com/user-attachments/assets/65eb5518-a616-43c5-8f08-7cfb478f6308" />
+Scheduling pipeline in ADF using Triggers
+  - Schedule
+  - Thumbling Window
+  - Storage Events
+  - Custom Events
+
+Storage event trigger
+<img width="1915" height="478" alt="image" src="https://github.com/user-attachments/assets/e4c00400-d932-40e5-9260-46129efd0965" />
+
+
+
+
+
