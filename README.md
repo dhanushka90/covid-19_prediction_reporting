@@ -22,3 +22,6 @@ Storage Solutions Used - https://learn.microsoft.com/en-us/azure/storage/common/
   - Azure SQL Database - https://learn.microsoft.com/en-us/azure/azure-sql/database/sql-database-paas-overview?view=azuresql
   - Azure Blob Storage - https://learn.microsoft.com/en-us/azure/synapse-analytics/overview-what-is
   - Azure Data Lake Storage Gen 2 - https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction
+
+Data Ingestion from Azure Blob
+  Azure Blob Storage -> Azure Data Lake
