@@ -27,3 +27,11 @@ Data Ingestion from Azure Blob
   Azure Blob Storage -> Azure Data Lake
   Copy Activity
   <img width="1243" height="513" alt="image" src="https://github.com/user-attachments/assets/e070920a-72ae-4b28-8c23-e6490fbcf275" />
+
+Naming Standard
+  - Link Services - ls_ablob_coviodreportingdkrsa
+  - Source Dataset - ds_population_raw_gz
+  - Link Services - ls_adls_covidreportingdkrdl
+  - Sink Dataset - ds_population_raw_tsv
+  - Pipoeline - pl_injest_population_data
+  - Copy Activity - Copy Population Data
