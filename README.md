@@ -17,6 +17,6 @@ Data Warehouse:
   - Testing Numbers
 
 Storage Solutions Used
-  Azure SQL Database
-  Azure Blob Storage
-  AZure Data Lake Storage Gen 2
+  - Azure SQL Database
+  - Azure Blob Storage
+  - Azure Data Lake Storage Gen 2
