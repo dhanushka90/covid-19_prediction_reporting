@@ -25,3 +25,5 @@ Storage Solutions Used - https://learn.microsoft.com/en-us/azure/storage/common/
 
 Data Ingestion from Azure Blob
   Azure Blob Storage -> Azure Data Lake
+  Copy Activity
+  <img width="1243" height="513" alt="image" src="https://github.com/user-attachments/assets/e070920a-72ae-4b28-8c23-e6490fbcf275" />
