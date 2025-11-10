@@ -61,6 +61,13 @@ Scheduling pipeline in ADF using Triggers
 Storage event trigger
 <img width="1915" height="478" alt="image" src="https://github.com/user-attachments/assets/e4c00400-d932-40e5-9260-46129efd0965" />
 
+Data Flows (Mapping Data Flow)
+1. Code free data transformations
+2. Does the ETL (Similar to SSIS)
+3. Executed on data factory managed Databricks Spark Clusters
+4. Benefits from data factory scheduling and monitoring capabilities
+5. DAta Flows -> Databricks -> Spark Cluster
+6. 
 
 
 
