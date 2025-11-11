@@ -66,8 +66,11 @@ Data Flows (Mapping Data Flow)
 2. Does the ETL (Similar to SSIS)
 3. Executed on data factory managed Databricks Spark Clusters
 4. Benefits from data factory scheduling and monitoring capabilities
-5. DAta Flows -> Databricks -> Spark Cluster
-6. 
+5. Data Flows -> Databricks -> Spark Cluster
+
+Transform Cases & Deaths data
+<img width="1148" height="629" alt="image" src="https://github.com/user-attachments/assets/a584568f-1f0d-420c-93ba-6d7c4602ab57" />
+
 
 
 
