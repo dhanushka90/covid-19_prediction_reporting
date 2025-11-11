@@ -70,6 +70,9 @@ Data Flows (Mapping Data Flow)
 
 Transform Cases & Deaths data
 <img width="1148" height="629" alt="image" src="https://github.com/user-attachments/assets/a584568f-1f0d-420c-93ba-6d7c4602ab57" />
+Data Flow to Transform Daa
+<img width="1920" height="543" alt="image" src="https://github.com/user-attachments/assets/745f1fca-b430-4055-bc09-b23d01544828" />
+
 
 
 
