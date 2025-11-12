@@ -68,15 +68,22 @@ Data Flows (Mapping Data Flow)
 4. Benefits from data factory scheduling and monitoring capabilities
 5. Data Flows -> Databricks -> Spark Cluster
 
-Transform Cases & Deaths data
+Transform Cases & Deaths Data
 <img width="1148" height="629" alt="image" src="https://github.com/user-attachments/assets/a584568f-1f0d-420c-93ba-6d7c4602ab57" />
 Data Flow to Transform Daa
 <img width="1920" height="543" alt="image" src="https://github.com/user-attachments/assets/745f1fca-b430-4055-bc09-b23d01544828" />
 
-Transform Cases & Deaths data
-<img width="1148" height="629" alt="image" src="https://github.com/user-attachments/assets/a584568f-1f0d-420c-93ba-6d7c4602ab57" />
-Data Flow to Transform Daa
-<img width="1920" height="543" alt="image" src="https://github.com/user-attachments/assets/745f1fca-b430-4055-bc09-b23d01544828" />
+Transform Hospital Admissions Data
+- Daily
+<img width="1258" height="689" alt="image" src="https://github.com/user-attachments/assets/8df4f112-cacf-4ae9-b251-110cd8e48219" />
+
+- Weekly
+<img width="1253" height="691" alt="image" src="https://github.com/user-attachments/assets/4a6d62e8-677d-4a51-b26b-98ac701362d0" />
+
+Pipeline and Data Flow
+<img width="1920" height="545" alt="image" src="https://github.com/user-attachments/assets/e27570d3-fcec-4acd-9069-bd4914b819c3" />
+<img width="1920" height="715" alt="image" src="https://github.com/user-attachments/assets/828ed77b-fe73-4e6e-9670-f720cf58ab5d" />
+
 
 
 
