@@ -111,7 +111,10 @@ Pipeline to copy data to SQL - Hospital Admissions Data
 <img width="1920" height="918" alt="image" src="https://github.com/user-attachments/assets/6e3e0996-6245-4e90-b554-c74f4621a7ce" />
 Data Copy complete - Hospital Admissions Data
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/01c87c8b-d93e-4da0-93a0-2d803532a1b1" />
-
+Pipeline to copy data to SQL - Test Data
+<img width="1920" height="913" alt="image" src="https://github.com/user-attachments/assets/e1311e35-6ec3-43fe-bbe8-e88fa08a0057" />
+Data Copy Complete - Test Data
+<img width="1920" height="913" alt="image" src="https://github.com/user-attachments/assets/008b21fb-3908-464a-a85f-52d489bafc78" />
 
 
 
