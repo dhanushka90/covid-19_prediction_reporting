@@ -101,6 +101,9 @@ Files in ADL
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/1346d34d-92a9-49b2-9eb8-2ec3f9b50666" />
 
 Copy Data to SQL
+Creating SQL Tables
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/14d86810-ba06-4027-880c-fc8266302a38" />
+
 
 
 
