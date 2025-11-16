@@ -85,6 +85,7 @@ Pipeline and Data Flow
 <img width="1920" height="715" alt="image" src="https://github.com/user-attachments/assets/828ed77b-fe73-4e6e-9670-f720cf58ab5d" />
 
 Databricks Cluster
+<img width="1920" height="913" alt="image" src="https://github.com/user-attachments/assets/abe4b7d2-6eed-4a3d-a137-89989a49d176" />
 <img width="1920" height="911" alt="image" src="https://github.com/user-attachments/assets/b5384018-3216-454d-b40b-785b9b7af143" />
 
 
