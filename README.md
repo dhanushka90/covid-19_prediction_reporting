@@ -103,9 +103,12 @@ Files in ADL
 Copy Data to SQL
 Creating SQL Tables
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/14d86810-ba06-4027-880c-fc8266302a38" />
-Pipeline to copy data to SQL
+Pipeline to copy data to SQL - Cases abd Deaths Data
 <img width="1920" height="917" alt="image" src="https://github.com/user-attachments/assets/a187cb4d-6b77-48fe-8646-d3ff16ef6672" />
-
+Data Copy complete - Cases abd Deaths Data
+<img width="1920" height="920" alt="image" src="https://github.com/user-attachments/assets/f64e8218-9d6b-4169-a40e-821ceed570c3" />
+Pipeline to copy data to SQL - Cases abd Deaths Data
+Data Copy complete - Cases abd Deaths Data
 
 
 
