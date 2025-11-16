@@ -91,6 +91,16 @@ Transforming Population by Age Data
 <img width="1135" height="603" alt="image" src="https://github.com/user-attachments/assets/6381add6-e950-4b1f-bfc5-6983c1ac0174" />
 Python Script to transform data
 <img width="1920" height="923" alt="image" src="https://github.com/user-attachments/assets/48cbb511-0c17-4737-8cfe-f26ad9500100" />
+Link Service to connect to the Databricks
+<img width="1920" height="915" alt="image" src="https://github.com/user-attachments/assets/fb7ba57f-5e68-44bc-b749-f6829cea7272" />
+Pipeline to execute the Python Notebook to execurte the Pipulation Transformation
+<img width="1920" height="915" alt="image" src="https://github.com/user-attachments/assets/b7f4fbe9-abde-485f-9644-8fcc5a0008cc" />
+Job Run
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/35fe4314-c1db-46cc-8ee7-9fcfd1ca04fa" />
+Files in ADL
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/1346d34d-92a9-49b2-9eb8-2ec3f9b50666" />
+
+Copy Data to SQL
 
 
 
