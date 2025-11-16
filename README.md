@@ -87,6 +87,11 @@ Pipeline and Data Flow
 Databricks Cluster
 <img width="1920" height="913" alt="image" src="https://github.com/user-attachments/assets/abe4b7d2-6eed-4a3d-a137-89989a49d176" />
 <img width="1920" height="911" alt="image" src="https://github.com/user-attachments/assets/b5384018-3216-454d-b40b-785b9b7af143" />
+Transforming Population by Age Data
+<img width="1135" height="603" alt="image" src="https://github.com/user-attachments/assets/6381add6-e950-4b1f-bfc5-6983c1ac0174" />
+Python Script to transform data
+<img width="1920" height="923" alt="image" src="https://github.com/user-attachments/assets/48cbb511-0c17-4737-8cfe-f26ad9500100" />
+
 
 
 
