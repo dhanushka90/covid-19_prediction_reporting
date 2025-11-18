@@ -116,6 +116,15 @@ Pipeline to copy data to SQL - Test Data
 Data Copy Complete - Test Data
 <img width="1920" height="913" alt="image" src="https://github.com/user-attachments/assets/008b21fb-3908-464a-a85f-52d489bafc78" />
 
+Data Orchestration
+Option 01 - Parent Pipeline
+<img width="1920" height="915" alt="image" src="https://github.com/user-attachments/assets/513b2910-4957-4440-a6c3-431cd0825c15" />
+<img width="1920" height="915" alt="image" src="https://github.com/user-attachments/assets/be74080b-68c6-47f5-88d8-1108c5a24b83" />
+<img width="1920" height="913" alt="image" src="https://github.com/user-attachments/assets/52040b79-cc14-43e0-98c0-313ac4ecf420" />
+
+Option 02 - Trigger Dependency (Tumbling Window Trigger)
+
+
 
 
 
