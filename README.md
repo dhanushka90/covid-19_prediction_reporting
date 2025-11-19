@@ -123,6 +123,18 @@ Option 01 - Parent Pipeline
 <img width="1920" height="913" alt="image" src="https://github.com/user-attachments/assets/52040b79-cc14-43e0-98c0-313ac4ecf420" />
 
 Option 02 - Trigger Dependency (Tumbling Window Trigger)
+<img width="1920" height="917" alt="image" src="https://github.com/user-attachments/assets/c08badd2-ccb9-45f4-b172-121b475aaf74" />
+<img width="1920" height="915" alt="image" src="https://github.com/user-attachments/assets/8e9219db-8db1-48fa-9a04-eb28dc481251" />
+<img width="1920" height="918" alt="image" src="https://github.com/user-attachments/assets/fbd2570b-40ba-435d-8e58-d2f4468ac92c" />
+
+Monitoring
+Data FActory Dashboards
+<img width="1920" height="913" alt="image" src="https://github.com/user-attachments/assets/99805527-06fd-42c1-9ed4-c6ea67528a13" />
+Alerts & Metrics
+<img width="1920" height="911" alt="image" src="https://github.com/user-attachments/assets/b1970e41-cd16-4272-96bc-bbaa58f7d927" />
+
+
+
 
 
 
