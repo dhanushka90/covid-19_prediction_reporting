@@ -136,6 +136,54 @@ Failing a Trigger to check the Alerts and Metrics
 <img width="1920" height="917" alt="image" src="https://github.com/user-attachments/assets/f60ae4d8-35dc-4f25-8e36-6c346ad699bb" />
 Dashboards
 <img width="1920" height="915" alt="image" src="https://github.com/user-attachments/assets/50436d9f-01c2-49d1-b311-3c6cd2b0da90" />
+Metrics
+<img width="1920" height="915" alt="image" src="https://github.com/user-attachments/assets/7d2abd0f-a23c-4654-a873-af8434043ab1" />
+Diagnostic setting
+<img width="1920" height="913" alt="image" src="https://github.com/user-attachments/assets/81caeae5-b0f0-4aa6-8a61-ad024c60887c" />
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/7fd51bdd-30ac-44c6-9972-1e91ac8fdedd" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
