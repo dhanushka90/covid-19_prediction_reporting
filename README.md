@@ -132,6 +132,12 @@ Data FActory Dashboards
 <img width="1920" height="913" alt="image" src="https://github.com/user-attachments/assets/99805527-06fd-42c1-9ed4-c6ea67528a13" />
 Alerts & Metrics
 <img width="1920" height="911" alt="image" src="https://github.com/user-attachments/assets/b1970e41-cd16-4272-96bc-bbaa58f7d927" />
+Failing a Trigger to check the Alerts and Metrics
+<img width="1920" height="917" alt="image" src="https://github.com/user-attachments/assets/f60ae4d8-35dc-4f25-8e36-6c346ad699bb" />
+Dashboards
+<img width="1920" height="915" alt="image" src="https://github.com/user-attachments/assets/50436d9f-01c2-49d1-b311-3c6cd2b0da90" />
+
+
 
 
 
