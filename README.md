@@ -141,6 +141,9 @@ Metrics
 Diagnostic setting
 <img width="1920" height="913" alt="image" src="https://github.com/user-attachments/assets/81caeae5-b0f0-4aa6-8a61-ad024c60887c" />
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/7fd51bdd-30ac-44c6-9972-1e91ac8fdedd" />
+Log Analytics - using Kusto Query Language (KQL)
+<img width="1920" height="916" alt="image" src="https://github.com/user-attachments/assets/510993ea-ee29-4940-8098-9789a26e0cfe" />
+<img width="1920" height="927" alt="image" src="https://github.com/user-attachments/assets/d279cf2c-48bd-4fcd-bdca-f2bfae231a1f" />
 
 
 
